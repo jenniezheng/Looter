@@ -1,6 +1,6 @@
 Smash the faces of presidents to collect dollars.
 
-Screenshots of game:
+
 
 
 <img src="looterPic.PNG" height="400" width="600">
